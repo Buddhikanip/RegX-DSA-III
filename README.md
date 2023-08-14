@@ -3,7 +3,7 @@ Implement Regex characters using the Knuth-Morris-Pratt (KMP) string matching al
 
 <br /><br />
 ## How to run?
-First, go to the [src](https://github.com/Buddhikanip/RegX-DSA-III/tree/main/src) folder and find the Main.java file. This is the main file in this scenario. You can run it using your own test cases and open the [pattrenmatch](https://github.com/Buddhikanip/RegX-DSA-III/blob/main/patternmatch.txt) file to view the outputs. If you want to add a new test case, go to the [text](https://github.com/Buddhikanip/RegX-DSA-III/blob/main/text.txt) and [pattern](https://github.com/Buddhikanip/RegX-DSA-III/blob/main/pattren.txt) files, create your own test cases.
+First, go to the [src](https://github.com/Buddhikanip/RegX-DSA-III/tree/main/src) folder and find the Main.java file. This is the main file in this scenario. You can run it using your own test cases and open the [pattrenmatch](https://github.com/Buddhikanip/RegX-DSA-III/blob/main/patternmatch.txt) file to view the outputs. If you want to add a new test case, go to the [text](https://github.com/Buddhikanip/RegX-DSA-III/blob/main/text.txt) and [pattern](https://github.com/Buddhikanip/RegX-DSA-III/blob/main/pattern.txt) files, create your own test cases.
 
 
 <br />
