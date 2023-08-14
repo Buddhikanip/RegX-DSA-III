@@ -1,0 +1,39 @@
+
+#################################################################
+#################################################################
+#################################################################
+##### 							    ##### 
+##### 							    ##### 
+#####    The below mentioned line numbers are the lines     #####
+#####   separated by "," and "." in the input file text,    #####
+#####           the separated lines are also  		    #####
+#####        first written to the sepout.txt file.         #####
+##### 							    #####
+##### 							    ##### 
+#################################################################
+#################################################################
+#################################################################
+
+
+Nothing found at line 1
+Pattern 'So' found at index 0 line 1
+Nothing found at line 2
+Nothing found at line 2
+Pattern 'rs' found at index 23 line 3
+Pattern 'rs' found at index 37 line 3
+Pattern 'rs' found at index 8 line 4
+Pattern 'rs' found at index 10 line 5
+Pattern 'rs' found at index 11 line 6
+Nothing found at line 7
+Nothing found at line 7
+Nothing found at line 8
+Nothing found at line 8
+Pattern 'rs' found at index 30 line 9
+Nothing found at line 10
+Nothing found at line 10
+Nothing found at line 11
+Nothing found at line 11
+Nothing found at line 12
+Nothing found at line 12
+Nothing found at line 13
+Nothing found at line 13
