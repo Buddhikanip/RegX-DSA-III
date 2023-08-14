@@ -25,7 +25,7 @@ public class Main extends regX {
                     "#####    The below mentioned line numbers are the lines     #####\n" +
                     "#####   separated by \",\" and \".\" in the input file text,    #####\n" +
                     "#####           the separated lines are also  \t\t    #####\n" +
-                    "#####        first written to the " + line_seperated_temporary_file_name + " file.         #####\n"
+                    "#####        first written to the " + line_seperated_temporary_file_name + " file.          #####\n"
                     +
                     "##### \t\t\t\t\t\t\t    #####\n" +
                     "##### \t\t\t\t\t\t\t    ##### \n" +
